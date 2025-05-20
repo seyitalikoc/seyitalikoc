@@ -65,7 +65,7 @@ Currently, I'm learning and expanding my skills with modern technologies like Re
 ## 📊 GitHub Stats  
   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitalikoc&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxx&hide_border=true&layout=compact&theme=dark" />
 
 <br/>  
 
